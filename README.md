@@ -1,2 +1,2 @@
-# boole-reduction
-Efficient algorithm and implementation for reducing large Boolean logic expressions
+# Efficient Algorithm and Implementation for Boole Reduction of Large Logic Expressions
+This project introduces an efficient algorithm and implementation for simplifying large logical expressions using Professor Norman J. Wildberger’s Algebra of Boole. By iteratively applying key Boole properties, the algorithm reduces complex expressions into compact canonical forms. Testing demonstrates significant improvements in reduction speed and computational efficiency compared to brute-force methods. Potential applications include artificial intelligence, automated theorem proving, propositional logic, and digital circuit optimization.
